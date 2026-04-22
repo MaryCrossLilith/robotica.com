@@ -1,9 +1,8 @@
 body {
-background-color: rgb(157, 188, 246);
+background-color: rgb(0, 0, 0);
 }
 
 .partecima-centro {
-  background: rgb(0, 0, 0);
   font-size: 50px; 
   color:rgb(22, 54, 143);
   font-family: "Fraunces", serif;
