@@ -6,4 +6,5 @@ h1 {
   font-size: 50px; 
   color:rgb(158, 38, 182);
   font-family: "Fraunces", serif;
+  border-top: solid 2px rgb black;
 }
