@@ -1,5 +1,5 @@
 body {
-background-color: #5a595d;
+background-color: white;
 }
 
 .partecima-centro {
@@ -12,5 +12,5 @@ background-color: #5a595d;
 
 .centro {
   padding: 80px;
-  background:white;
+  background:#5a595d;
 }
