@@ -12,6 +12,7 @@ background-color: white;
   font-weight: bold; 
   text-align: center;
   text-transform: uppercase;
+  border-bottom: 3px solid rgb(8, 77, 110);
 }
 
 .centro {
