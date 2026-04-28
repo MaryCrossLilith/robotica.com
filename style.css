@@ -8,9 +8,14 @@ background-color: white;
   color: rgb(8, 77, 110);
   font-family: "Fraunces", serif;
   border-bottom: solid 10px rgb black;
+  margin-top:30px;
+  font-weight: bold; 
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .centro {
   padding: 80px;
   background:#5a595d;
+  color: white;
 }
